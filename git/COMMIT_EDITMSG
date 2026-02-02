@@ -1,0 +1,9 @@
+Add hardcoded ad links to the user interface
+
+Hardcode Monetag and Adsterra ad links into the App.tsx and PopunderAd.tsx files, updating the default placementAds configuration and enabling iframe rendering for direct links.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 031f474f-ad10-416c-9d4d-536da8f222d0
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Event-Id: 3b206215-0d2a-4ce8-86a1-c6867c734a85
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/256d09e9-c1ce-458d-8c4e-6e1922700cb1/031f474f-ad10-416c-9d4d-536da8f222d0/lfh80iR
